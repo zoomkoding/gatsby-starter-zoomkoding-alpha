@@ -13,7 +13,7 @@ module.exports = {
       repo: `zoomkoding/gatsby-starter-zoomkoding`,
     },
   },
-  ga: 'G-ZGEVWE9G1Z', // Google Analytics Tracking ID
+  ga: 'UA-134826755-3', // Google Analytics Tracking ID
 
   // metadata for bio
   bio: {
