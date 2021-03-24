@@ -2,28 +2,27 @@ module.exports = {
   title: `zoomkoding.dev`,
   description: `줌코딩의 개발일기`,
   author: `zoomkoding`,
+  siteUrl: `https://gatsby-starter-zoomkoding.netlify.com`,
   social: {
     github: `https://github.com/zoomKoding`,
     linkedIn: `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
     email: `zoomkoding@gmail.com`,
   },
+  comments: {
+    utterances: {
+      repo: `zoomkoding/gatsby-starter-zoomkoding`,
+    },
+  },
+  ga: 'G-ZGEVWE9G1Z', // Google Analytics Tracking ID
 
+  // metadata for bio
   bio: {
     language: `ko`, // 'en', 'ko'
     name: '줌코딩',
     description: ['이로운 것을 만드는', '배움을 좋아하는', 'UI/UX에 관심있는', '글로 나누길 좋아하는'],
   },
 
-  comments: {
-    utterances: {
-      repo: `zoomkoding/gatsby-starter-zoomkoding`,
-    },
-  },
-
-  // Google Analytics Tracking ID
-  ga: '',
-
-  // meta About Page
+  // metadata for About Page
   about: {
     timestamps: [
       {
