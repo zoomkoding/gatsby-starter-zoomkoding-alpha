@@ -20,7 +20,10 @@ module.exports = {
     },
   },
 
-  // this data is for About Page
+  // Google Analytics Tracking ID
+  ga: '',
+
+  // meta About Page
   about: {
     timestamps: [
       {
