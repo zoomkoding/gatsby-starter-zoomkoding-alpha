@@ -4,7 +4,7 @@ module.exports = {
   author: `zoomkoding`,
 
   siteUrl: `https://gatsby-starter-zoomkoding.netlify.com`,
-  ogImage: `https://github.com/zoomKoding/gatsby-starter-zoomkoding/blob/master/src/assets/og-image.png`,
+  ogImage: `https://raw.githubusercontent.com/zoomKoding/gatsby-starter-zoomkoding/master/src/assets/og-image.png`,
   social: {
     github: `https://github.com/zoomKoding`,
     linkedIn: `https://www.linkedin.com/in/jinhyeok-jeong-800871192`,
