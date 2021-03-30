@@ -10,10 +10,11 @@
   <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="contributions welcome" />
 </p>
 
-[**Demo Website(EN)**](https://zoomkoding.netlify.app)
-[**Demo Website(KO)**](https://www.zoomkoding.com)
+<p align="center">
+    [**Demo Website(en)**](https://zoomkoding.netlify.app) | [**Demo Website(ko)**](https://www.zoomkoding.com)
+<p align="center">
 
-[**한국어 README.md**](https://github.com/zoomkoding/gatsby-starter-zoomkoding/blob/master/README.ko.md)
+[**🇰🇷 한국어 README.md**](https://github.com/zoomkoding/gatsby-starter-zoomkoding/blob/master/README.ko.md)
 
 ## 👋 Introduction
 
