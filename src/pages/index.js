@@ -44,7 +44,7 @@ export const pageQuery = graphql`
       edges {
         node {
           id
-          excerpt(pruneLength: 200, truncate: true)
+          excerpt(pruneLength: 350, truncate: true)
           frontmatter {
             categories
             title

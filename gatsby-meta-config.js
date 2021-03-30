@@ -1,9 +1,9 @@
 module.exports = {
   title: `zoomkoding.dev`,
-  description: `줌코딩의 개발일기`,
+  description: `zoomkoding's dev log`,
   author: `zoomkoding`,
 
-  siteUrl: `https://gatsby-starter-zoomkoding.netlify.com`,
+  siteUrl: `https://zoomkoding.netlify.com`,
   ogImage: `https://raw.githubusercontent.com/zoomKoding/gatsby-starter-zoomkoding/master/src/assets/og-image.png`,
   social: {
     github: `https://github.com/zoomKoding`,
@@ -19,9 +19,9 @@ module.exports = {
 
   // metadata for bio
   bio: {
-    language: `ko`, // 'en', 'ko'
-    name: '줌코딩',
-    description: ['이로운 것을 만드는', '배움을 좋아하는', 'UI/UX에 관심있는', '글로 나누길 좋아하는'],
+    language: `en`, // 'en', 'ko'
+    name: 'zoomkoding',
+    description: ['making something great', 'who enjoys learning', 'interested in UI/UX', 'who like to write'],
   },
 
   // metadata for About Page
